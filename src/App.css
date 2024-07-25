@@ -1,0 +1,27 @@
+body {
+    background-color: #fff !important;
+    color: #333 !important;
+  }
+
+  .dark-mode body {
+    background-color: #333 !important;
+    color: #fff !important;
+  }
+
+  .dark-mode .des-text {
+    color: #fff !important;
+}
+
+
+  .dark-mode .navbar-logo {
+    color: #333 !important;
+  }
+
+  .dark-mode img {
+    border: 5px solid #fff; /* Add border and set color for img */
+
+  }
+  
+
+  
+  
